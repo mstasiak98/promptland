@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848e00d7-053d-4472-9929-cd87c2d22893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PromptCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Provider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/prompt/new/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/prompt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/create-prompt/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/create-prompt/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Form.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Mikolaj/Downloads/Modern_React_Snippets-1.0.1/Modern React Snippets/lib/instrumented-modern-react-snippets-plugin-1.0.1.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,6 +63,7 @@
       <workItem from="1702401729464" duration="1324000" />
       <workItem from="1702468081684" duration="1174000" />
       <workItem from="1702469290437" duration="10225000" />
+      <workItem from="1702546389038" duration="2775000" />
     </task>
     <servers />
   </component>
