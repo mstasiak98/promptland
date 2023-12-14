@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848e00d7-053d-4472-9929-cd87c2d22893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/prompt/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/prompt/[id]/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/users/[id]/posts/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/profile/page.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/prompt/new/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/prompt/new/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Feed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Feed.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/create-prompt/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/create-prompt/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/PromptCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PromptCard.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
       <workItem from="1702401729464" duration="1324000" />
       <workItem from="1702468081684" duration="1174000" />
       <workItem from="1702469290437" duration="10225000" />
-      <workItem from="1702546389038" duration="5259000" />
+      <workItem from="1702546389038" duration="11013000" />
     </task>
     <servers />
   </component>
