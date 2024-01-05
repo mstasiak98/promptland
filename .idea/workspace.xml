@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848e00d7-053d-4472-9929-cd87c2d22893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/profile/[id]/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/profile/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/profile/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Feed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Feed.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/PromptCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PromptCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +61,16 @@
       <workItem from="1702468081684" duration="1174000" />
       <workItem from="1702469290437" duration="10225000" />
       <workItem from="1702546389038" duration="12712000" />
-      <workItem from="1702637247607" duration="8351000" />
+      <workItem from="1702637247607" duration="8561000" />
+      <workItem from="1704392403125" duration="1279000" />
+      <workItem from="1704476707089" duration="66000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>
